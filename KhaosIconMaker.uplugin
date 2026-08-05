@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
-	"SemVersion": "1.1.0",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "KhaosIconMaker",
 	"Description": "Icon Maker for Satisfactory Modding",
 	"Category": "Modding",
@@ -10,12 +10,12 @@
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"RequiredOnRemote": false,
-	"GameVersion": ">=416835",
+	"GameVersion": ">=491125",
 	"Plugins": []
 }
