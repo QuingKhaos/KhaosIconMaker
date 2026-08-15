@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.0",
-	"SemVersion": "1.2.0",
+	"VersionName": "1.3.0",
+	"SemVersion": "1.3.0",
 	"FriendlyName": "KhaosIconMaker",
 	"Description": "Icon Maker for Satisfactory Modding",
 	"Category": "Modding",
@@ -16,6 +16,5 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"RequiredOnRemote": false,
-	"GameVersion": ">=491125",
-	"Plugins": []
+	"GameVersion": ">=502094"
 }
